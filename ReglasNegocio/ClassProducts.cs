@@ -22,7 +22,7 @@ namespace ReglasNegocio
     public class ClassProducts
     {
         public string sError;
-        string sCon = "Server=LAPTOP-P73RDL1S; Initial Catalog = SisInventarios; User ID = sa; Password = Deisy29";
+        string sCon = "Server=(local); Initial Catalog = SisInventarios; User ID = sa; Password = 12345";
 
         public bool CreateProduct( productos producto )
         {
