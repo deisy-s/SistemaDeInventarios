@@ -18,27 +18,31 @@
 </p>
 
 ## Funcionalidades del proyecto
-- Inicio de sesión interactivo <br>
+### **Seguridad**
+- **Autenticación interactiva:** Interfaz de inicio de sesión segura para gestionar el acceso de los usuarios al sistema de inventario <br>
   <img width="161" height="361" alt="SisInventory login" src="https://github.com/user-attachments/assets/f318e977-120f-4695-a07c-9239fd9a7e26" />
 
-- Consultar almacenes, productos, saldos, ventas <br>
-  <img width="458" height="282" alt="SisInventory search" src="https://github.com/user-attachments/assets/4cbd4206-0893-4909-8431-6cd3f13264da" />
-
-- Gestionar almacenes <br>
+### **Gestión de Inventarios y Almacenes**
+- **Operaciones de Almacén:** Gestión completa de almacenes, lo cual permite el seguimiento organizacional <br>
   <img width="459" height="289" alt="SisInventory warehouse" src="https://github.com/user-attachments/assets/f0ce6039-c683-4e1f-b299-89d97fd7e886" />
 
-- Gestionar productos que se manejan <br>
+- **Catálogo de Productos:** Control centralizado de los datos de los productos, precios de compra y venta <br>
   <img width="460" height="289" alt="SisInventory products" src="https://github.com/user-attachments/assets/645ebf96-583c-4712-a02e-3cc5982eedcb" />
 
-- Registrar una entrada de producto a almacenes <br>
+- **Seguimiento del movimiento de inventario:** Registra las entradas y salidas de productos en tiempo real para mantener niveles de inventario precisos en todos los almacenes <br>
+  Entrada: <br>
   <img width="459" height="288" alt="SisInventory entry" src="https://github.com/user-attachments/assets/839b738f-c2a1-4b27-a055-73e2cff5d595" />
-
-- Registrar una salida de producto de almacenes <br>
+  <br>
+  Salida: <br>
   <img width="460" height="287" alt="SisInventory exit" src="https://github.com/user-attachments/assets/651771c0-1694-487a-a81e-50ca44379794" />
 
-- Registrar ventas <br>
+### **Ventas e Informes**
+- **Registro de Ventas:** Proceso optimizado para registrar transacciones y actualizar el inventario automáticamente <br>
   <img width="459" height="287" alt="SisInventory sales" src="https://github.com/user-attachments/assets/7d61191e-f3af-4107-be47-cb1582c4b6fe" />
 
+- **Búsqueda y análisis:** Consulta almacenes, productos específicos, saldos actuales y datos históricos de ventas <br>
+  <img width="458" height="282" alt="SisInventory search" src="https://github.com/user-attachments/assets/4cbd4206-0893-4909-8431-6cd3f13264da" />
+  
 ## Tecnologías utilizadas
 - C#
 - Microsoft SQL Server
